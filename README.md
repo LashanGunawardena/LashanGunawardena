@@ -55,7 +55,7 @@
 ##  Connect Me Via
 
     
-[![GitHub followers](https://img.shields.io/github/followers/Lashan?style=social)](https://github.com/LashanGunawardena)
+[![GitHub followers](https://img.shields.io/github/followers/LashanGunawardena?style=social)](https://github.com/LashanGunawardena)
 [![Linkedin Badge](https://img.shields.io/badge/-Lashan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lashan-gunawardena-061095292/)](https://www.linkedin.com/in/lashan-gunawardena-061095292/)
 [![Instagram Badge](https://img.shields.io/badge/-Lashan-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lashan_.g/)](https://www.instagram.com/lashan_.g/)
 [![Gmail Badge](https://img.shields.io/badge/-Lashan-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:ravijalashangunawardena@gmail.com)
