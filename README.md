@@ -17,10 +17,10 @@
 <br>
 
 - 🎓 CS Undergraduate at the University of Westminster
-- 💻 FullStack Web Developer | Passionate about building modern web applications
+- 💻 FullStack Web Developer | Passionate about building modern web & mobile applications
 - 🚀 Currently diving deep into FullStack Development & Mobile Development
 - 🤝 Open to collaborating with fellow Developers
-- 💡 Ask me anything about Frontend Development!
+- 💡 Ask me anything about Frontend/Backend Development!
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
